@@ -1,0 +1,85 @@
+{
+  "home": {
+    "title": "Найкращі домашні вина України- смакуй справжнє",
+    "button": "",
+    "description": "Відкрий для себе найкращі домашні вина України. Натуральний смак, автентичні традиції та зручна доставка по всій країні.",
+    "menuLabel": "Головна"
+  },
+  "about": {
+    "title": "Про сайт",
+    "firebaseDoc": "Документація Firebase",
+    "i18nextDoc": "Документація i18next",
+    "theoryLink": "Теорія",
+    "button": "",
+    "description": "Сайт перекладено на кілька мов за допомогою бібліотеки i18next",
+    "menuLabel": "Про сайт",
+    "passwordSection": {
+      "title": "Паролі",
+      "manager": {
+        "title": "Менеджер (yyy)",
+        "credentials": "Email/Password - yyy@gmail.com",
+        "access": "Доступ: Products Page - створення/редагування/видалення своїх продуктів",
+        "rulesNote": "Регулюється розділом Rules у Firebase"
+      },
+      "user": {
+        "title": "Користувач (aaa)",
+        "credentials": "Email/Password - aaa@gmail.com",
+        "access": "Доступ: Cart Page - Додавання товару у кошик / Підрахунок суми товару",
+        "note": "! при додаванні товару - порядок відображення карток змінюється"
+      },
+      "admin": {
+        "title": "Адмін (xxx)",
+        "credentials": "Email/Password - 11111@gmail.com",
+        "accessUserPage": "UserPage - додавання, редагування, видалення користувачів (user, manager, admin …)",
+        "accessProductsPage": "Products Page - створення/редагування/видалення продуктів",
+        "rulesNote": "Регулюється розділом Rules у Firebase"
+      }
+    }
+  },
+  "productsPage": {
+    "title": "Каталог Продуктів",
+    "button": "",
+    "description": "",
+    "menuLabel": "Вина"
+  },
+  "productLangAddPage": {
+    "title": "",
+    "button": "",
+    "description": "Додати тов",
+    "menuLabel": "Додати тов",
+    "productLangForm": {
+      "nameEn": "Назва (англійською)",
+      "nameUa": "Назва (українською)",
+      "descriptionEn": "Опис (англійською)",
+      "descriptionUa": "Опис (українською)",
+      "price": "Ціна",
+      "image": "Посилання на зображення",
+      "submit": "Зберегти"
+    }
+  },
+  "commandBtn": {
+    "login": "Увійти",
+    "logout": "Вийти",
+    "register": "Зареєструватися",
+    "submit": "Відправити",
+    "add": "Додати",
+    "delete": "Видалити",
+    "edit": "Редагувати",
+    "save": "Зберегти",
+    "cancel": "Скасувати",
+    "colorTheme": "Колір сайту : ",
+    "langTheme": "Вибрати мову : "
+  },
+  "navigateBtn": {
+    "toLogin": "Перейти до входу",
+    "toRegister": "Перейти до реєстрації",
+    "toProfile": "Перейти в профіль",
+    "toHome": "На головну",
+    "toContacts": "До контактів",
+    "addProductLang": "Додати продукт для різних мов",
+    "toAddProduct": "Додати продукт"
+  },
+  "generateBtn": {
+    "password": "Згенерувати пароль"
+  }
+}

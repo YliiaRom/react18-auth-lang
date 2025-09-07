@@ -1,0 +1,85 @@
+{
+  "home": {
+    "title": "The best homemade wines of Ukraine - taste the real thing",
+    "button": "",
+    "description": "Discover the best homemade wines of Ukraine. Natural taste, authentic traditions and convenient delivery throughout the country",
+    "menuLabel": "Home"
+  },
+  "about": {
+    "title": "About the Site",
+    "firebaseDoc": "Firebase Documentation",
+    "i18nextDoc": "i18next Documentation",
+    "theoryLink": "Theory",
+    "button": "",
+    "description": "The website is multilingual and translated using the i18next library, providing users with a seamless experience and high-quality multilingual interface",
+    "menuLabel": "About",
+    "passwordSection": {
+      "title": "Passwords",
+      "manager": {
+        "title": "Manager (yyy)",
+        "credentials": "Email/Password - yyy@gmail.com",
+        "access": "Access: Products Page - create/update/delete own products",
+        "rulesNote": "Regulated by the Rules section in Firebase"
+      },
+      "user": {
+        "title": "User (aaa)",
+        "credentials": "Email/Password - aaa@gmail.com",
+        "access": "Access: Cart Page - Add products to cart / Calculate total price",
+        "note": "! when adding a product, the order of cards changes"
+      },
+      "admin": {
+        "title": "Admin (xxx)",
+        "credentials": "Email/Password - 11111@gmail.com",
+        "accessUserPage": "UserPage - add, edit, delete users (user, manager, admin …)",
+        "accessProductsPage": "Products Page - create/update/delete products",
+        "rulesNote": "Regulated by the Rules section in Firebase"
+      }
+    }
+  },
+  "productsPage": {
+    "title": "Product Catalog",
+    "button": "",
+    "description": "",
+    "menuLabel": "Products"
+  },
+  "productLangAddPage": {
+    "title": "",
+    "button": "",
+    "description": "",
+    "menuLabel": "Products(Lang)",
+    "productLangForm": {
+      "nameEn": "Name (English)",
+      "nameUa": "Name (Ukrainian)",
+      "descriptionEn": "Description (English)",
+      "descriptionUa": "Description (Ukrainian)",
+      "price": "Price",
+      "image": "Image URL",
+      "submit": "Save"
+    }
+  },
+  "commandBtn": {
+    "login": "Sign in",
+    "logout": "Go out",
+    "register": "Register",
+    "submit": "Send",
+    "add": "Add",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "colorTheme": "Color of the site",
+    "langTheme": "Choose language"
+  },
+  "navigateBtn": {
+    "toLogin": "Go to login",
+    "toRegister": "Go to registration",
+    "toProfile": "Go to profile",
+    "toHome": "To Home",
+    "toContacts": "To Contacts",
+    "addProductLang": "Add a product for different languages",
+    "toAddProduct": "Add a product"
+  },
+  "generateBtn": {
+    "password": "Generate password"
+  }
+}
