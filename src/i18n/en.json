@@ -57,6 +57,10 @@
       "submit": "Save"
     }
   },
+  "cartPage": {
+    "menuLabel": "Basket"
+  },
+
   "commandBtn": {
     "login": "Sign in",
     "logout": "Go out",

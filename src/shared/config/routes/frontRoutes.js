@@ -95,7 +95,7 @@ export const frontRoutes = {
       path: "cart",
       navigationPath: "/cart",
       meta: {
-        title: "Кошик",
+        title: "cartPage",
         isInMenu: true,
         requireAuth: true,
         roles: [roles.user],

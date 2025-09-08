@@ -57,6 +57,9 @@
       "submit": "Зберегти"
     }
   },
+  "cartPage": {
+    "menuLabel": "Кошик"
+  },
   "commandBtn": {
     "login": "Увійти",
     "logout": "Вийти",
