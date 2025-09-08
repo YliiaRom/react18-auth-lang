@@ -11,7 +11,7 @@ export default function ProductLangForm({ product = {}, onSubmit }) {
   const [descriptionUa, setDescriptionUa] = useState(
     product?.description?.ua || ""
   );
-
+  console.log(imgProd);
   const [price, setPrice] = useState(product?.price || 0);
   const [image, setImage] = useState(product?.image || "");
 
@@ -29,7 +29,7 @@ export default function ProductLangForm({ product = {}, onSubmit }) {
         ua: descriptionUa,
       },
       price: Number(price),
-      image: image || productImage,
+      image: productImage,
     });
   };
 
